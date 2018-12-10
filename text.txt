@@ -20,3 +20,4 @@ commit1
 change2
 
 commit2
+commit3
