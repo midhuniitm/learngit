@@ -6,3 +6,7 @@ advanced code
 super advanced
 
 next commit
+
+stupid change
+
+one more change
